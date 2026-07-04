@@ -69,7 +69,7 @@
         </a>
         
         <a href="https://www.linkedin.com/in/jackellyne-caviquioli-ribeiro-90a285334?utm_source=share_via&utm_content=profile&utm_medium=member_ios" target="_blank" class="text-sm font-medium text-gray-300 hover:text-white pb-0.5 border-b-2 border-transparent hover:border-blue-400 transition-all duration-200 whitespace-nowrap">
-          Jacke
+          Jackellyne
         </a>
         
       </div>
