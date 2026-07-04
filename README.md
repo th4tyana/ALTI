@@ -35,7 +35,7 @@ A aplicação foi desenvolvida de forma nativa visando alta performance e sem de
 ##  Estrutura do Projeto
 
 ```text
-NEXUSSTUDY/
+ALTI/
 ├── config/
 │   └── database.php          # Conexão segura e padrão Singleton PDO
 ├── controllers/
